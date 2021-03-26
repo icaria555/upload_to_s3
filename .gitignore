@@ -1,0 +1,13 @@
+pyvenv.cfg
+__pycache__/
+__MACOSX
+Lib/
+Scripts/
+.pytest_cache/
+.vscode
+*.csv
+*.cfg
+.env
+.read
+*.json
+*.txt
